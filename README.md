@@ -1,4 +1,6 @@
-# Vanila404FinalEdition
+# Vanila 404 Final Edition
+
+![V404FE logo](https://sun9-87.userapi.com/impg/rDji_Vgd8E3prsQUQiBa_BVZpYdZ160WsMI6gw/_8VGnGLP6SQ.jpg?size=2048x1024&quality=96&sign=4b6fd087b8c84ace079ad1283a7571c8&type=album)
 
 Авторские доработки для мода Vanila Edition 404. 
 
